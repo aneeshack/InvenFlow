@@ -8,7 +8,6 @@ import { useState, useEffect } from "react";
 
 import { AuthProvider, useAuth } from "./contexts/AuthContext";
 import Login from "./pages/Login";
-import Dashboard from "./pages/Dashboard";
 import Inventory from "./pages/Inventory";
 import Customers from "./pages/Customers";
 import Sales from "./pages/Sales";
